@@ -1,0 +1,62 @@
+username: PagansDev
+
+profile:
+  name: "Paulo Gabriel Neves Santos"
+  tagline: "Full Stack Developer & Open Source Explorer"
+  company: "none"
+  location: "Sorocaba, SP, Brazil"
+  bio: ""
+  philosophy: '"The best code is the code that empowers others."'
+
+social:
+  email: "paulogabrielneves@hotmail.com"
+  linkedin: "pagansdev"
+  website: "https://pagansdev.site"
+
+galaxy_arms:
+  - name: "Frontend"
+    items:
+      - "TypeScript"
+      - "React"
+      - "Next.js"
+  - name: "Backend"
+    items:
+      - "Nest"
+      - "Node.js"
+      - "TypeScript"
+  - name: "DevOps"
+    items:
+      - "Docker"
+      - "GitHub Actions"
+      - "Azure"
+
+projects:
+  - repo: "PagansDev/lexomni-mcp"
+    arm: 0
+    description: "Persistent memory & semantic search for AI agents using Markdown and PDFs."
+  - repo: "PagansDev/TriggerDesk-AI"
+    arm: 1
+    description: "Real-time chat system with specialized AI integration for customer service, developed with Node.js, TypeScript, Socket.IO, and MongoDB."
+
+theme:
+  dark: "deep-sky"
+  light: "deep-sky"
+
+motion: true
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+    - "Python"
+  max_display: 8
